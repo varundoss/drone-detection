@@ -23,7 +23,7 @@ This project implements a real-time drone detection system using RetinaNet and O
 
 Save this `README.md` file in the root of your project directory.
 
-### Step 4: Commit Your Project Files
+## Step 4: Commit Your Project Files
 
    Add all your files to the repository and commit them:
 
